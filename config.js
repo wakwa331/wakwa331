@@ -22,8 +22,8 @@ global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.owner = ['628891753051']
-global.premium = ['628891753051']
+global.owner = ['628891753051','6288221394653']
+global.premium = ['628891753051','6288221394653']
 global.packname = '©'
 global.author = 'Pino-MD'
 global.wlcm = []
